@@ -13,4 +13,4 @@ def get_the_keys(groceries)
   groceries.keys
 end
 
-put get_the_keys(groceries)
+puts get_the_keys(groceries)
